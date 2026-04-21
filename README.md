@@ -49,7 +49,7 @@ for (int i = 0; i < N; i++) {
     // Boundary conditions: ψ(0) = ψ(L) = 0
 }
 ```
-#### 1D Grid Setup:
+#### 2D Grid Setup:
 ```cpp
 // 2D Mesh: Nx × Ny internal points
 double dx = Lx / (Nx + 1);
