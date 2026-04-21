@@ -62,3 +62,6 @@ for (int i = 0; i < Nx; i++) {
     }
 }
 ```
+
+
+![Wavefunction Evolution](resultados_2D/superficie_3d.gif)
